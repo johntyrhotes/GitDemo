@@ -46,6 +46,8 @@ public class Data {
       System.out.println("Romario");
       System.out.println("Stefii");
       
+      System.out.println("Mani");
+      
 	}
 
 }
